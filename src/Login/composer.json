@@ -10,7 +10,7 @@
     "php": "~5.5.0|~5.6.0|~7.0.0",
     "magento/framework": "^100.1.0",
     "magento/module-customer": "^100.1.0",
-    "magento/module-store": "^100.1.0",
+    "magento/module-store": "^100.1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "2.*",
@@ -36,7 +36,7 @@
   "support": {
       "email": "chandirasekaranid@gmail.com",
       "forum": "https://www.empye.com/forum",
-      "issues": "https://www.github.com/empye/magento/issues",
+      "issues": "https://www.github.com/empye/magento/issues"
   },
   "repositories": [
     {
@@ -50,7 +50,7 @@
   ],
  "autoload": {
     "files": [
-      "registration.php",
+      "registration.php"
     ],
     "psr-4": {	
       "Empye\\Login\\": ""
