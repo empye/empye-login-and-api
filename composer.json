@@ -1,6 +1,6 @@
 {
   "name": "empye/empye-login-and-api",
-  "description": "Official Magento2 Plugin login using soical network, Qr Code and additional extended and simplified api features",
+  "description": "Official Magento2 Plugin login using social network, Qr Code and additional extended and simplified api features",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
